@@ -1,44 +1,44 @@
 - [Who am I?](https://github.com/hackclub/technicolor/blob/main/technicolor.md#who-am-i)
   - [TechBug2012](https://github.com/hackclub/technicolor/blob/main/technicolor.md#techbug2012)
-  - Learning to code / My first major project
-  - Entering high school & discovering Hack Club
-  - Gaining confidence
-  - Meeting Zach
-  - Hack Chicago
-  - My transformation
-- What Hack Clubs look like
-  - What my Hack Club looked like
-  	- The first year (2017-2018)
-  	- The second year (2018-2019)
-  	- My final ~year~ semester (2019-2020)
-  - What other Hack Clubs look like
-  - What a Hack Club is not
-- Common problems club leaders run into, and how to support them
-  - Problems I ran into that I wish HQ had helped with
-  - Common problems that every club leader (including me) runs into
-  	- Revisiting my first year as a club leader
-  - What we currently do to support clubs
-  - How the clubs program can improve
-  	- The club leader pipeline
-  	- Club operations
-  	- The club leader resources
-  		- Hack Club Workshops
-  		- Hack Club Meetings
-  	- Fundraising & Hackathons
-  	- The application system & flow
-  	- Philosophy messaging
-  	- Building a community
-  		- Online
-  		- In person
-- What I would do if I were at Hack Club for another year
-  - During the summer
-  - The application flow
-  - Checking in with club leaders
-  - The club leader newsletter
-  - Hack Club Meetings
-  	- The Personal Website Meeting
-  - The future??????
-- Conclusion
+  - [Learning to code / My first major project](https://github.com/hackclub/technicolor/blob/main/technicolor.md#learning-to-code--my-first-major-project)
+  - [Entering high school & discovering Hack Club](https://github.com/hackclub/technicolor/blob/main/technicolor.md#entering-high-school--discovering-hack-club)
+  - [Gaining confidence](https://github.com/hackclub/technicolor/blob/main/technicolor.md#gaining-confidence)
+  - [Meeting Zach](https://github.com/hackclub/technicolor/blob/main/technicolor.md#meeting-zach)
+  - [Hack Chicago](https://github.com/hackclub/technicolor/blob/main/technicolor.md#hack-chicago)
+  - [My transformation](https://github.com/hackclub/technicolor/blob/main/technicolor.md#my-transformation)
+- [What Hack Clubs look like](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-hack-clubs-look-like)
+  - [What my Hack Club looked like](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-my-hack-club-looked-like)
+  	- [The first year (2017-2018)](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-first-year-2017-2018)
+  	- [The second year (2018-2019)](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-second-year-2018-2019)
+  	- [My final ~year~ semester (2019-2020)](https://github.com/hackclub/technicolor/blob/main/technicolor.md#my-final-year-semester-2019-2020)
+  - [What other Hack Clubs look like](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-other-hack-clubs-look-like)
+  - [What a Hack Club is not](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-a-hack-club-is-not)
+- [Common problems club leaders run into, and how to support them](https://github.com/hackclub/technicolor/blob/main/technicolor.md#common-problems-club-leaders-run-into-and-how-to-support-them)
+  - [Problems I ran into that I wish HQ had helped with](https://github.com/hackclub/technicolor/blob/main/technicolor.md#problems-i-ran-into-that-i-wish-hq-had-helped-with)
+  - [Common problems that every club leader (including me) runs into](https://github.com/hackclub/technicolor/blob/main/technicolor.md#common-problems-that-every-club-leader-including-me-runs-into)
+  	- [Revisiting my first year as a club leader](https://github.com/hackclub/technicolor/blob/main/technicolor.md#revisiting-my-first-year-as-a-club-leader)
+  - [What we currently do to support clubs](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-we-currently-do-to-support-clubs)
+  - [How the clubs program can improve](https://github.com/hackclub/technicolor/blob/main/technicolor.md#how-the-clubs-program-can-improve)
+  	- [The club leader pipeline](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-club-leader-pipeline)
+  	- [Club operations](https://github.com/hackclub/technicolor/blob/main/technicolor.md#club-operations)
+  	- [The club leader resources](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-club-leader-resources)
+  		- [Hack Club Workshops](https://github.com/hackclub/technicolor/blob/main/technicolor.md#hack-club-workshops)
+  		- [Hack Club Meetings](https://github.com/hackclub/technicolor/blob/main/technicolor.md#hack-club-meetings)
+  	- [Fundraising & Hackathons](https://github.com/hackclub/technicolor/blob/main/technicolor.md#fundraising--hackathons)
+  	- [The application system & flow](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-application-system--flow)
+  	- [Philosophy messaging](https://github.com/hackclub/technicolor/blob/main/technicolor.md#philosophy-messaging)
+  	- [Building a community](https://github.com/hackclub/technicolor/blob/main/technicolor.md#building-a-community)
+  		- [Online](https://github.com/hackclub/technicolor/blob/main/technicolor.md#online)
+  		- [In person](https://github.com/hackclub/technicolor/blob/main/technicolor.md#in-person)
+- [What I would do if I were at Hack Club for another year](https://github.com/hackclub/technicolor/blob/main/technicolor.md#what-i-would-do-if-i-were-at-hack-club-for-another-year)
+  - [During the summer](https://github.com/hackclub/technicolor/blob/main/technicolor.md#during-the-summer)
+  - [The application flow](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-application-flow)
+  - [Checking in with club leaders](https://github.com/hackclub/technicolor/blob/main/technicolor.md#checking-in-with-club-leaders)
+  - [The club leader newsletter](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-club-leader-newsletter)
+  - [Hack Club Meetings](https://github.com/hackclub/technicolor/blob/main/technicolor.md#hack-club-meetings-1)
+  	- [The Personal Website Meeting](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-personal-website-meeting)
+  - [The future??????](https://github.com/hackclub/technicolor/blob/main/technicolor.md#the-future)
+- [Conclusion](https://github.com/hackclub/technicolor/blob/main/technicolor.md#conclusion)
 
 ---
 
