@@ -1,12 +1,3 @@
-# technicolor
-🟥🟧🟨🟩🟦🟪 A guide to running Hack Club's clubs program, written June 2021.
-
-**How to lead the Hack Club clubs program**
-
-{{TOC}}
-
----
-
 Hi there 👋 this is my attempt at a comprehensive guide for how to lead Hack Club's clubs program. In here, I will cover everything, from my personal Hack Club journey, to all of the different parts of the clubs program and how to think about them, to specific actions that you can take on day one to make the clubs program better.
 
 Although I will do my best to make this a comprehensive guide, in reality I can't cover every part of being a good clubs lead in here. There are many things that you have to just "know", or be able to intuit, and the only way to learn how to do that is by diving in headfirst and trying a bunch of things out for many months until you figure it out. That said, I hope you'll find this a very useful starting point, and I hope it can help in learning how to think about the right things.
