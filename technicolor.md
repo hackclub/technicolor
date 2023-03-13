@@ -182,7 +182,7 @@ Broadly, most Hack Clubs run workshops. Most start out with the [Hack Club Works
 
 [redacted example]
 
-[redacted example]
+Julia runs a fantastic club near Austin, TX. She and Adison, the former leader of the club, contributed [a fantastic Hack Club Meeting](https://meetings.hackclub.com/splatterpaint) in April 2021.
 
 One of the OG best Hack Clubs is Mason Hack Club, which runs in Cincinnati, OH. Their first meeting often has 80+ people, and they also run a hackathon every year. [Check out their Instagram!](https://www.instagram.com/masonhackclub/)
 
