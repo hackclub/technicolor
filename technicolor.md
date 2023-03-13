@@ -1,3 +1,47 @@
+- [Who am I?](https://github.com/hackclub/technicolor/blob/main/technicolor.md#who-am-i)
+  - [TechBug2012](https://github.com/hackclub/technicolor/blob/main/technicolor.md#techbug2012)
+  - Learning to code / My first major project
+  - Entering high school & discovering Hack Club
+  - Gaining confidence
+  - Meeting Zach
+  - Hack Chicago
+  - My transformation
+- What Hack Clubs look like
+  - What my Hack Club looked like
+  	- The first year (2017-2018)
+  	- The second year (2018-2019)
+  	- My final ~year~ semester (2019-2020)
+  - What other Hack Clubs look like
+  - What a Hack Club is not
+- Common problems club leaders run into, and how to support them
+  - Problems I ran into that I wish HQ had helped with
+  - Common problems that every club leader (including me) runs into
+  	- Revisiting my first year as a club leader
+  - What we currently do to support clubs
+  - How the clubs program can improve
+  	- The club leader pipeline
+  	- Club operations
+  	- The club leader resources
+  		- Hack Club Workshops
+  		- Hack Club Meetings
+  	- Fundraising & Hackathons
+  	- The application system & flow
+  	- Philosophy messaging
+  	- Building a community
+  		- Online
+  		- In person
+- What I would do if I were at Hack Club for another year
+  - During the summer
+  - The application flow
+  - Checking in with club leaders
+  - The club leader newsletter
+  - Hack Club Meetings
+  	- The Personal Website Meeting
+  - The future??????
+- Conclusion
+
+---
+
 Hi there 👋 this is my attempt at a comprehensive guide for how to lead Hack Club's clubs program. In here, I will cover everything, from my personal Hack Club journey, to all of the different parts of the clubs program and how to think about them, to specific actions that you can take on day one to make the clubs program better.
 
 Although I will do my best to make this a comprehensive guide, in reality I can't cover every part of being a good clubs lead in here. There are many things that you have to just "know", or be able to intuit, and the only way to learn how to do that is by diving in headfirst and trying a bunch of things out for many months until you figure it out. That said, I hope you'll find this a very useful starting point, and I hope it can help in learning how to think about the right things.
