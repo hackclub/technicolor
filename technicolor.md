@@ -224,7 +224,7 @@ Although many of the issues I ran into as a club leader are issues that every ot
 
 Broadly, most Hack Clubs run workshops. Most start out with the [Hack Club Workshops](https://workshops.hackclub.com), but as the club leaders gain leadership experience and get their club closer to what they want it to be, they often begin writing their own workshops. A "workshop" isn't exclusively something on the Workshops page; it's a club activity that follows the philosophy that the best way to learn to code is to dive in headfirst, make real projects, and learn along the way. For some schools, the "anarchy" style works well; others found that their club works much better when it's very guided.
 
-[redacted example]
+JP, a rising sophomore from near Denver, Colorado, runs one of the best Hack Clubs. [Check out the website he made for his club](https://www.p2phack.club/hs), and check [out one of his workshops](https://www.p2phack.club/hs/day-8). I recommend going through each "day" under the "HS" tab to see all of them!
 
 Julia runs a fantastic club near Austin, TX. She and Adison, the former leader of the club, contributed [a fantastic Hack Club Meeting](https://meetings.hackclub.com/splatterpaint) in April 2021.
 
