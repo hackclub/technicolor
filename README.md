@@ -8,4 +8,4 @@ This guide was never intended to be seen by anyone other than Leo, but it eventu
 
 ---
 
-Read: [`./technicolor.md ➚`](https://github.com/hackclub/technicolor/blob/main/technicolor.md) 🟥🟧🟨🟩🟦🟪
+🟥🟧🟨🟩🟦🟪 Read: [`./technicolor.md ➚`](https://github.com/hackclub/technicolor/blob/main/technicolor.md)
