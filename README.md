@@ -1,4 +1,4 @@
-# technicolor 🟥🟧🟨🟩🟦🟪
+# technicolor 🟦🟪🟥🟧🟨🟩
 
 My name is Matthew, and I worked for Hack Club HQ between January 2020 and June 2021, as the first gap year student and interim head of clubs. Shortly before I left Hack Club HQ, I wrote a 17,516-word guide to leading the clubs program for [Leo](https://leomcelroy.com/), who stepped into my role. This guide extensively detailed my journey as a club leader, painting a vivid picture of my many failures and eventual success, and pulled back the curtain behind the program at Hack Club HQ.
 
@@ -8,4 +8,4 @@ This guide was never intended to be seen by anyone other than Leo, but it eventu
 
 ---
 
-🟥🟧🟨🟩🟦🟪 Read: [`./technicolor.md ➚`](https://github.com/hackclub/technicolor/blob/main/technicolor.md)
+🟦🟪🟥🟧🟨🟩 Read: [`./technicolor.md ➚`](https://github.com/hackclub/technicolor/blob/main/technicolor.md)
